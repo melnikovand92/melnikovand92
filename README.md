@@ -34,5 +34,5 @@
 ---
 
 ### 🎓 Курсы  
-[![Karpov.Courses](https://img.shields.io/badge/Karpov.Courses-FF4F00?style=for-the-badge&logo=google-scholar&logoColor=white)](https://lab.karpov.courses/certificate/e38ccc63-673e-4bc6-bce1-c3d0f40175cb/)  
 
+➡️ [Karpov.Courses Аналитик данных](https://lab.karpov.courses/certificate/e38ccc63-673e-4bc6-bce1-c3d0f40175cb/)
